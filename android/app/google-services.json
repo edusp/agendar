@@ -1,0 +1,21 @@
+{
+  "project_info": {
+    "project_number": "898194018837",
+    "project_id": "barberhouse-31bd9",
+    "storage_bucket": "barberhouse-31bd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898194018837:android:9590a05758c8c39beff41c",
+        "android_client_info": { "package_name": "com.barberhouse.app" }
+      },
+      "oauth_client": [],
+      "api_key": [{ "current_key": "PLACEHOLDER_API_KEY" }],
+      "services": {
+        "appinvite_service": { "other_platform_oauth_client": [] }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
